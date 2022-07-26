@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Bat Movies</string>
+    <string name="imdb">Imdb</string>
+    <string name="metascore">Metascore</string>
+    <string name="Title">title</string>
+    <string name="Year">year</string>
+    <string name="Rated">Rated</string>
+    <string name="Realease_date">Release Date</string>
+    <string name="Run_time">Run time</string>
+    <string name="Genre">Genre</string>
+    <string name="Directors">Directors</string>
+    <string name="Writers">Writers</string>
+    <string name="Actors">Actors</string>
+    <string name="Plot">Plot</string>
+    <string name="Country">Country</string>
+    <string name="Awards">Awards</string>
+    <string name="Metascore">Metascore</string>
+    <string name="Imdb">Imdb</string>
+    <string name="imdb_votes">Imdb votes</string>
+    <string name="type">Type</string>
+    <string name="DVD_relaease_date">DVD release date</string>
+    <string name="Box_office">Box office</string>
+    <string name="Production">Production</string>
+    <string name="Website">Website</string>
 </resources>
